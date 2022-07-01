@@ -1,4 +1,4 @@
-## This repository contain one stops detailed guide to handle the Feature Engineering in any kind of DataSet such as :-
+## This repository contains one stops detailed guide to handle the Feature Engineering in any kind of DataSet such as :-
 
 - Handling Missing Values in both Categorical and Numerical
 - Finding and Removing Outlier
