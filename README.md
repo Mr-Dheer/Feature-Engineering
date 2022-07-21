@@ -4,5 +4,5 @@
 - Finding and Removing Outlier
 - Finding the Correlation and Feature Selection
 - Techniques to handle the Imbalanced DataSet
-- Ways to transform data for all kinds of Standardization
+- Ways to transform the data for all kinds of Standardization
 
